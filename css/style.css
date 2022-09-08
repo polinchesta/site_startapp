@@ -1,0 +1,393 @@
+body {
+    background: #fff;
+    font-family: "lato";
+    color: black;
+}
+
+h4,
+h5,
+h6 {
+    font-family: "Lato";
+}
+
+.navbar-brand {
+    margin-left: 200px;
+    margin-right: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    flex-wrap: nowrap;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.nav-link:not(:last-child) {
+    margin: 15px 20px 0px 0px;
+}
+
+.nav-link:hover {
+    color: #cf38ef;
+    text-decoration: none;
+}
+
+.header-link {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 0;
+    margin-top: 13px;
+}
+
+.header-link:not(:last-child) {
+    margin: 13px 20px 0px 0px;
+}
+
+.header-link:hover {
+    color: #cf38ef;
+    text-decoration: none;
+}
+
+.btn-contact {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 0;
+    margin-top: -5px;
+    border:none;
+    background-color: #fff;
+}
+
+.btn-contact:hover {
+    color: #cf38ef;
+    text-decoration: none;
+}
+
+.tel-link {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 0;
+    margin: 15px 30px 0px 200px;
+}
+
+.tel-link:hover {
+    color: #cf38ef;
+    text-decoration: none;
+}
+
+.img-services{
+    height: 70%;
+    width: 70%;
+    margin-left: 170px;
+}
+
+.img-line{
+    height: 70%;
+    width: 70%;
+    margin: -181px 206px 30px -50px;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    text-align: right;
+    margin: 64px 208px 30px 0px;
+}
+
+.text-section >p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    width: 370px;
+    height: 100px;
+    text-align: right;
+}
+
+img.button-section{
+    width:180px;
+    height:150px;
+    margin-top:-300px;
+    margin-left: 200px;
+}
+
+hr{
+    margin-left: 150px;
+    color: rgb(143, 131, 131);
+    width: 900px;
+}
+
+.text-previu >p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    width: 370px;
+    text-align: left;
+    margin: 0 0 30px 150px;
+}
+
+.text-previu h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    text-align: left;
+    margin: 30px 0 30px 150px;
+}
+
+img.znachki{
+    width: 500px;
+    margin-left: 80px;
+}
+
+img.button-previu-section{
+    width:180px;
+    height:150px;
+    margin: -50px 0 0 150px;
+}
+
+img.shortly {
+    width:415px;
+    margin-top: 70px;
+}
+
+img.logo-text{
+    margin-left: 150px;
+    width: 55px;
+}
+
+.photo-previu{
+    width: 1230px;
+}
+
+.col-text h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    text-align: right;
+    margin-right: 206px;
+}
+
+.col-text p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    width: 370px;
+    text-align: right;
+}
+
+.main-text h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    width: 370px;
+    text-align: left;
+    margin-left: 130px;
+}
+
+img.button-s {
+    width: 180px;
+    margin-left: 190px;
+    margin-top: -50px;
+}
+
+img.d-block-left{
+    width: 370px;
+    margin-left: 140px;
+}
+
+img.d-block-right{
+    width: 370px;
+    margin-right: 40px;
+}
+
+.button-slider-left{
+    margin-top: -100px;
+    margin-left: 1780px;
+}
+
+.button-slider-right{
+    margin-top: -100px;
+    margin-right: 350px;
+}
+
+.col-text h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 130px;
+}
+
+.form-message{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-top: 1px solid rgb(133, 131, 131);
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+.form-control{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    border-top: 1px solid rgb(133, 131, 131);
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+.form-name{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    border-top: 1px solid rgb(133, 131, 131);
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+.form-label{
+    margin-top: 10px;
+    color: dimgrey;
+    font-size: 13px;
+}
+
+.mb-3{
+    margin-left: 150px;
+}
+
+.button-send{
+    max-width: 220px;
+    margin-left: 150px;
+}
+
+.nav-link-footer{
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-link-footer:not(:last-child) {
+    margin: 15px 20px 0px 0px;
+}
+
+.nav-link-footer:hover {
+    color: #cf38ef;
+    text-decoration: none;
+}
+
+.text-form h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 150px;
+    font-size: 19px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.image-simvol{
+    margin: -350px 0px 0px 430px;
+    padding: 15px;
+    width: 20px;
+    height: 20px;
+}
+
+.behance img{
+    margin-bottom: 20px;
+}
+
+.bird img{
+    margin-bottom: 20px;
+}
+
+.dribbble img{
+    margin-bottom: 20px;
+}
+
+.google img{
+    margin-bottom: 20px;
+}
+
+.dannye {
+    margin: -320px 0px 0px 0px;
+}
+
+.tel{
+    margin-bottom: 40px;
+}
+
+.telef-link{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    margin-left: 50px;
+}
+
+.mail {
+    margin-bottom: 40px;
+}
+
+.email-down{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    margin-left: 50px;
+}
+
+.position{
+    margin-bottom: 40px;
+}
+
+.adres{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+.modal {
+	position: absolute;
+	margin-top: 75px;
+	margin-left: 400px;
+	background-color: #b4cef3;
+    border: 2px solid rgb(0, 0, 0);
+	z-index: 99;
+	width: 390px;
+    height: 415px;
+}
+
+.modal form{
+    background-color: #b4cef3;
+}
+
+.modal-info label {
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.modal-info input {
+	margin-bottom: 20px;
+	width: 300px;
+	height: 30px;
+    margin-left: 5px;
+}
+
+.closeButtonForm{
+    background-color: #b4cef3;
+    width: 20px;
+}
+
+.close-button{
+    width: 150px;
+    height: 30px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
